@@ -2,7 +2,7 @@
 
 - 👾 Senai - Técnico em Redes de Computadores (concluido) ✅
 - 📚 Graduação em Defesa Cibernética (estudando) 🚓
-- 👨‍💻 DevOps - Alura (Concluido) ✅
+- 👨‍💻 DevOps - Alura (estudando) 👨‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpaoli&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpaoli&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
